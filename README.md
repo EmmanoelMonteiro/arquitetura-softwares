@@ -11,6 +11,30 @@
 - 🎓 **Projetos exemplares** desenvolvidos por alunos
 - 📋 Templates para trabalhos e exercícios
 
+## 🏆 Projetos Destaque
+
+### 🧮 Calculadora com Clean Architecture
+[![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
+[![Tecnologias](https://img.shields.io/badge/Tech-HTML,CSS,JS-blue)]()
+
+Uma implementação didática de Clean Architecture em projeto front-end
+
+### ⚽ Servidor de Clubes do Cartola FC
+[![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
+[![Tecnologias](https://img.shields.io/badge/Tech-Node.js,HTML,CSS,JS-blue)]()
+
+Demonstração simples e prática de como um servidor Node.js pode interagir com uma API externa.
+
+[▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/listar_clubes-cartola-fc)
+
+### 📇 CRM API Clientes
+[![Badge Status](https://img.shields.io/badge/Status-Completo-brightgreen)]()
+[![Tecnologias](https://img.shields.io/badge/Tech-Node.js,H2,RestAPI-orange)]()
+
+API RESTful para gerenciamento de clientes com banco em memória
+
+[▶️ Ver Projeto](https://github.com/EmmanoelMonteiro/crm_api_clientes)
+
 ## 🧩 Como Contribuir
 
 1. Faça um fork do projeto
